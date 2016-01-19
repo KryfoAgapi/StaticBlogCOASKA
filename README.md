@@ -1,0 +1,1 @@
+# StaticBlogCOASKA
